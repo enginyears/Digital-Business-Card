@@ -60,4 +60,4 @@ const char* CARD_INSTA = "@yourhandle";
 ## 📺 Part of the `enginyears` Beginner Series
 > *One ESP32. Infinite possibilities. Starting from zero.*
 
-Instagram: [@enginyears](https://instagram.com/enginyears.me)
+Instagram: [@enginyears.me](https://instagram.com/enginyears.me)
