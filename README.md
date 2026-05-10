@@ -42,6 +42,7 @@ Find this section at the top of `main.cpp` and fill in your own details:
 const char* CARD_NAME  = "Your Name Here";
 const char* CARD_TITLE = "Your Title";
 const char* CARD_EMAIL = "you@email.com";
+const char* CARD_PHONE   = "+911234567890";
 const char* CARD_INSTA = "@yourhandle";
 ```
 
@@ -59,4 +60,4 @@ const char* CARD_INSTA = "@yourhandle";
 ## 📺 Part of the `enginyears` Beginner Series
 > *One ESP32. Infinite possibilities. Starting from zero.*
 
-Instagram: [@enginyears](https://instagram.com/enginyears)
+Instagram: [@enginyears](https://instagram.com/enginyears.me)
